@@ -1,5 +1,6 @@
 # puppet-apparmor module
 
-## Custom Ubuntu profiles
+This forked module has been superceded by a more recent upstream.
 
-[custom Ubuntu profiles](https://github.com/simondeziel/aa-profiles)
+See https://github.com/simondeziel/puppet-apparmor.
+
